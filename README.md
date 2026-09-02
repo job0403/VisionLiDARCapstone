@@ -14,7 +14,8 @@ This project was developed as a Capstone Thesis in the Robotics and AI Engineeri
 ## 💻 Hardware Requirements
 * **Processing Unit:** High-performance PC/Laptop with a dedicated CUDA-enabled GPU (Developed on an RTX 3060).
 * **Camera:** IP Camera with RTSP streaming capabilities (e.g., Dahua WizSense IPC-HFW2449S-S-IL).
-* **Sensors:** * PTFG-3000 Laser Range Finder (3000m range) via Serial-to-USB.
+* **Sensors:** 
+  * PTFG-3000 Laser Range Finder (3000m range) via Serial-to-USB.
   * PTFS-1000 Laser Range Finder (400m range) via Serial-to-USB.
 
 ## 🛠️ Installation & Setup
